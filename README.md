@@ -425,16 +425,6 @@ I’m particularly interested in combining **strong backend engineering with mod
 
 # 💬 Let's Connect
 
-I'm always open to discussing:
-
-* 💻 Software Engineering
-* 🏗️ System Design
-* ☁️ Cloud Architecture
-* ⚡ Distributed Systems
-* 🤖 AI / GenAI
-* 🚀 Interesting products
-* 💼 Software Engineering opportunities
-
 <div align="center">
 
 <a href="mailto:jainvishwas2011@gmail.com">
