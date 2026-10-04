@@ -299,47 +299,7 @@ Working on **HorizonView**, a remote ventilator monitoring platform used for mon
 <img src="https://skillicons.dev/icons?i=aws,linux,docker,git,github" />
 
 </div>
-
----
-
-# ⚡ Real-Time & Distributed Systems
-
-Some of the systems I enjoy working on:
-
-```text
-                 ┌───────────────────┐
-                 │     Devices       │
-                 │  Ventilators / IoT│
-                 └─────────┬─────────┘
-                           │
-                           ▼
-                    ┌──────────────┐
-                    │    Kafka     │
-                    └──────┬───────┘
-                           │
-                           ▼
-                    ┌──────────────┐
-                    │    Redis     │
-                    │    Cache     │
-                    └──────┬───────┘
-                           │
-                           ▼
-                 ┌───────────────────┐
-                 │   Node.js APIs    │
-                 └─────────┬─────────┘
-                           │
-                           ▼
-                  ┌─────────────────┐
-                  │   WebSockets    │
-                  └────────┬────────┘
-                           │
-                           ▼
-                ┌────────────────────┐
-                │ React / React Native│
-                │   Live Dashboard   │
-                └────────────────────┘
-```
-
+                 
 ---
 
 # 📈 GitHub Stats
@@ -400,26 +360,6 @@ Relevant Coursework:
 * **IBM** — Full Stack Developer
 * **LinkedIn Learning** — Advanced Natural Language Processing
 * **AWS** — Cloud / Solutions Architecture learning
-
----
-
-# 🌱 Currently Learning
-
-```text
-System Design
-     ↓
-Distributed Systems
-     ↓
-Cloud Architecture
-     ↓
-LLMs & Generative AI
-     ↓
-RAG Pipelines
-     ↓
-AI Agents
-```
-
-I’m particularly interested in combining **strong backend engineering with modern AI systems** to build useful, production-ready applications.
 
 ---
 
