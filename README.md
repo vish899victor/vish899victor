@@ -302,32 +302,6 @@ Working on **HorizonView**, a remote ventilator monitoring platform used for mon
                  
 ---
 
-# 📈 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vish899victor&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vish899victor&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=vish899victor&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/vish899victor/vish899victor/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
 # 🎓 Education
 
 ### Vishwakarma Institute of Technology — Pune
